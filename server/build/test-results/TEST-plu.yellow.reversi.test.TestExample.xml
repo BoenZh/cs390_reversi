@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="plu.yellow.reversi.test.TestExample" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-05T20:42:42" hostname="roam-213-161.plu.edu" time="0.646">
+  <properties/>
+  <testcase name="testExamplePlainText" classname="plu.yellow.reversi.test.TestExample" time="0.646"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Apr 05, 2017 1:42:42 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [localhost:8080]
+Apr 05, 2017 1:42:42 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer] Started.
+Apr 05, 2017 1:42:43 PM org.glassfish.grizzly.http.server.NetworkListener shutdownNow
+INFO: Stopped listener bound to [localhost:8080]
+]]></system-err>
+</testsuite>
